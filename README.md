@@ -11,7 +11,7 @@ A fully functional **Pac-Man clone** built using the **Unity Real-Time Game Engi
 - 👻 AI-driven ghosts using FSM (Finite State Machines)  
 - 🧠 Ghosts exhibit chase, scatter, and frightened behaviors  
 - 💥 Power pellets toggle ghost behavior dynamically  
-- 🧭 Pathfinding via Unity's NavMesh or custom A* logic  
+- 🧭 Pathfinding via BFS or DFS or custom A* logic  
 - 🎯 Score tracking, win/lose conditions, and high score system  
 
 ---
